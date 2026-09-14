@@ -1,4 +1,4 @@
-﻿# java-event-management-backend
+﻿# bodyplan-backend
 
-Spring Boot API - Event Management.
+Spring Boot API - BodyPlan (dietas, treinos e acompanhamento corporal).
 
